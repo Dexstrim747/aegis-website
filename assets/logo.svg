@@ -1,0 +1,11 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aegis logo">
+  <defs>
+    <linearGradient id="aegis-grad" x1="6" y1="2" x2="42" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#72C0FF"/>
+      <stop offset="1" stop-color="#4AA3FF"/>
+    </linearGradient>
+  </defs>
+  <path d="M24 2L42 9V22.5C42 33.5 34.8 41.8 24 46C13.2 41.8 6 33.5 6 22.5V9L24 2Z" fill="url(#aegis-grad)" fill-opacity="0.12" stroke="url(#aegis-grad)" stroke-width="1.6"/>
+  <path d="M24 8.4L36.4 12.9V22.3C36.4 30.4 31.2 36.7 24 40.1C16.8 36.7 11.6 30.4 11.6 22.3V12.9L24 8.4Z" stroke="url(#aegis-grad)" stroke-width="1.1" stroke-opacity="0.55"/>
+  <path d="M16.8 23.6L21.6 28.4L31.6 18" stroke="url(#aegis-grad)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

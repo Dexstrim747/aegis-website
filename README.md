@@ -3,7 +3,7 @@
 Official website for **Aegis**, an advanced Telegram administration platform focused on automation, security and community control.
 
 - **Live bot:** https://t.me/aegis_admin22_bot
-- **Source / privacy policy source:** https://github.com/alekseyggprot-cpu/aegis-privacy
+- **Source / privacy policy source:** https://github.com/Dexstrim747/aegis-privacy
 
 ## Stack
 
